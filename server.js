@@ -16,7 +16,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(MONGODB_URI, {
+mongoose.connect(MONGODB_URI, { // connecting atlas to heroku database soon to have heroku deployment
   useNewUrlParser: true,
   useFindAndModify: false
 });
