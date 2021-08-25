@@ -14,6 +14,7 @@ To install dependencies, run the following:
 `
 just view the deployed sample app and see my expertise in this sample code
 `
+The heroku deployment is coming soon, for now run npm start to functionality!
 ## Usage
 This was made through a bootcamp using some sample code, then fleshed out more! 
 ## License
